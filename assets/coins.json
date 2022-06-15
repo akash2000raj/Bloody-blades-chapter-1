@@ -1,0 +1,271 @@
+{
+	"textures": [
+		{
+			"image": "coins.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 234,
+				"h": 266
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bronze_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					}
+				},
+				{
+					"filename": "gold_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					},
+					"frame": {
+						"x": 84,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					}
+				},
+				{
+					"filename": "silver_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					},
+					"frame": {
+						"x": 0,
+						"y": 84,
+						"w": 84,
+						"h": 84
+					}
+				},
+				{
+					"filename": "bronze_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 84
+					},
+					"frame": {
+						"x": 84,
+						"y": 84,
+						"w": 66,
+						"h": 84
+					}
+				},
+				{
+					"filename": "gold_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 84
+					},
+					"frame": {
+						"x": 150,
+						"y": 84,
+						"w": 66,
+						"h": 84
+					}
+				},
+				{
+					"filename": "silver_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 84
+					},
+					"frame": {
+						"x": 168,
+						"y": 0,
+						"w": 66,
+						"h": 84
+					}
+				},
+				{
+					"filename": "bronze_3.png",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 84
+					},
+					"frame": {
+						"x": 0,
+						"y": 168,
+						"w": 50,
+						"h": 84
+					}
+				},
+				{
+					"filename": "gold_3.png",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 84
+					},
+					"frame": {
+						"x": 84,
+						"y": 168,
+						"w": 50,
+						"h": 84
+					}
+				},
+				{
+					"filename": "silver_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 84
+					},
+					"frame": {
+						"x": 168,
+						"y": 168,
+						"w": 50,
+						"h": 84
+					}
+				},
+				{
+					"filename": "gold_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 84
+					},
+					"frame": {
+						"x": 216,
+						"y": 84,
+						"w": 15,
+						"h": 84
+					}
+				},
+				{
+					"filename": "bronze_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 84
+					},
+					"frame": {
+						"x": 218,
+						"y": 168,
+						"w": 14,
+						"h": 84
+					}
+				},
+				{
+					"filename": "silver_4.png",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 84
+					},
+					"frame": {
+						"x": 0,
+						"y": 252,
+						"w": 14,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.6"
+	}
+}
